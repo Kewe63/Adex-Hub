@@ -353,7 +353,7 @@ The network is automatically added to MetaMask on first connection if not alread
 ### Installation
 
 ```bash
-git clone https://github.com/Kewe63/arc-network-dex.git
+git clone https://github.com/Kewe63/Adex-Hub.git
 cd adex-hub
 npm install
 ```
